@@ -1,0 +1,15 @@
+C:\Users\kunes\source\repos\200323\200323\bin\Debug\net6.0\200323.exe
+C:\Users\kunes\source\repos\200323\200323\bin\Debug\net6.0\200323.deps.json
+C:\Users\kunes\source\repos\200323\200323\bin\Debug\net6.0\200323.runtimeconfig.json
+C:\Users\kunes\source\repos\200323\200323\bin\Debug\net6.0\200323.dll
+C:\Users\kunes\source\repos\200323\200323\bin\Debug\net6.0\200323.pdb
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.csproj.AssemblyReference.cache
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.AssemblyInfoInputs.cache
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.AssemblyInfo.cs
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.csproj.CoreCompileInputs.cache
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.dll
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\refint\200323.dll
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.pdb
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\200323.genruntimeconfig.cache
+C:\Users\kunes\source\repos\200323\200323\obj\Debug\net6.0\ref\200323.dll
